@@ -36,3 +36,32 @@
 // const CalcDiscount = (Price, DiscountPercentage) =>
 //   Price * (DiscountPercentage / 100);
 // console.log(CalcDiscount(1345, 10));
+
+// //VOLLEYBALL EX:04
+// let.Team1.Team1.Team1 = [24, 40, 10];
+// let.Team1.Team1.Team2 = [30, 10, 4, 12];
+// let.Team1.Team1.Team3 = [50, 40, 20, 09];
+
+// function winnerOfTournament(Team1, Team2, Team3) {
+//   const average;
+// }
+// console.log(winnerOfTournament());
+
+// FOR LOOP
+// for (let i = 1; i <= 10; i++) {
+//   if (i % 2 === 0) {
+//     continue;
+//   }
+//   if (i > 7) {
+//     break;
+//   }
+//   console.log(i);
+// }
+
+// // FOR OF LOOP
+// const names = ["riya", "priya", "Mia"];
+
+// let text = "";
+// for (let x of names) {
+//   text += x;
+// }
